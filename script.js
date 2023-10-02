@@ -1,9 +1,14 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
+//prompts to the user
 function generatePassword() {
   console.log("Hey, you clicked the button!");
-  var length = Number(prompt("Enter ")
+  var uppercase = confirm("Would you like your password to contain uppercase characters? Click OK for Yes! Cancel for No.");
+  var lowercase = confirm("Would you like your password to contain lowercase characters? Click OK for Yes! Cancel for No.")
+  var symbols = confirm("Would you like your password to contain symbols? Click OK for Yes! Cancel for No.")
+  var numbers = confirm("Would you like your password to contain numbers? Click OK for Yes! Cancel for No.")
+  var passwordLength = prompt("How long would you like your password? It may be between 8 and 128 characters.")
 
 
 
