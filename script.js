@@ -10,7 +10,15 @@ function generatePassword() {
   var numbers = confirm("Would you like your password to contain numbers? Click OK for Yes! Cancel for No.")
   var passwordLength = prompt("How long would you like your password? It may be between 8 and 128 characters.")
 
+  //declaring limits for the password
+  var uppercaseLetter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  var lowercaseLtter = "abcdefghijklmnopqrstuvwxyz"
+  var symbol = "!@#$%^&*()?.</>|=+:;,{}[]_-"
+  var numberCharacters = "1234567890"
 
+  //actual logic for computer to check
+
+  
 
 
 
