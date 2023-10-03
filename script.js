@@ -19,14 +19,14 @@ function generatePassword() {
 
   var password = "";
 
-  // if (passwordLength === null) {
-  //   alert("Goodbye!")
+  if (passwordLength === NaN) {
+    alert("Goodbye!") }
   // } else {
 
   // if (passwordLength < 8 || passwordLength > 128) {
   //   alert("You must enter a number between 8 and 128 you silly goose!")
   // }}
-
+var charSet = "";
   for (var i = 0; i < length; i++) {
     var charSet = "";
 
@@ -44,10 +44,10 @@ function generatePassword() {
     }
 }}
 
-var randomIndex = Math.floor(Math.random() * charSet.length)
-var randomChar = charSet.charAt(randomIndex);
+// var randomIndex = Math.floor(Math.random() * charSet.length)
+// var randomChar = charSet.charAt(randomIndex);
 
-password += randomChar;
+// password += randomChar;
 
 // Write password to the #password input
 function writePassword() {
