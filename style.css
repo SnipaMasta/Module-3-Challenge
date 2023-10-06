@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
 html,
 body,
 .wrapper {

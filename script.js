@@ -43,12 +43,13 @@ function generatePassword() {
     variables = variables + lowercaseLetter
   }
 
-  console.log(variables);
+  // console.log(variables);
 
   var newPass = ""
   for (let i = 0; i < passwordLength; i++) {
     newPass = newPass + variables.charAt(Math.floor(Math.random() * variables.length))
   }
+  console.log(newPass);
   return newPass //generated password.
 }
 generateBtn.addEventListener("click", writePassword);
