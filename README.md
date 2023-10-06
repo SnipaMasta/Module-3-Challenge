@@ -12,7 +12,7 @@ No installation required! Simply click the "Generate Password" button, specify y
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-    ![screenshot of password generator](./assets/Capture.PNG)
+   ![Capture](https://github.com/SnipaMasta/Module-3-Challenge/assets/144749848/292ddb1b-c8e2-4ebe-9527-7ca5e9c9032a)
 
 ## License
 
