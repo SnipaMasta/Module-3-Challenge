@@ -15,7 +15,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![screenshot of password generator]/assets/144749848/42cb3457-b649-4ceb-ae78-02994cdcf64b)
+    ![screenshot of password generator](assets/144749848/42cb3457-b649-4ceb-ae78-02994cdcf64b)
 
     ```
 
