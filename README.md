@@ -2,25 +2,11 @@
 
 ## Description
 
-This application generates a password for the user depending on certain criteria. The user can request a password from 8 to 128 characters in length. Additionaly, the user can choose to have the following included: Numbers, Symbols, Uppercase and Lowercase letters. The application is very useful for generating a secure password without the need to actually come up with it yourself! 
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This application generates a password for the user depending on certain criteria. The user can request a password from 8 to 128 characters in length. Additionaly, the user can choose to have the following included: Numbers, Symbols, Uppercase and Lowercase letters. The application is very useful for generating a secure password without the need to actually come up with it yourself! I learned the benefit of an if statement and also how arrays when coding. These are, of course, tools that I'll carry with me for my entire career and that excites me. I'm actually looking forward to using the password for my own benefit, since sometimes I'm lazy and heavily dislike thinking of my own password.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No installation required! Simply click the "Generate Password" button, specify your parameters and you're golden!
 
 ## Usage
 
@@ -29,37 +15,11 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![screenshot of password generator](https://github.com/SnipaMasta/Module-3-Challenge/assets/144749848/42cb3457-b649-4ceb-ae78-02994cdcf64b)
+
     ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
