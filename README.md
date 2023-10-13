@@ -10,14 +10,9 @@ No installation required! Simply click the "Generate Password" button, specify y
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Below is a screenshot of the page! Here is the link to access the site: https://snipamasta.github.io/Module-3-Challenge/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![screenshot of password generator](https://github.com/SnipaMasta/Module-3-Challenge/assets/144749848/42cb3457-b649-4ceb-ae78-02994cdcf64b)
-
-    ```
+   ![Capture](https://github.com/SnipaMasta/Module-3-Challenge/assets/144749848/292ddb1b-c8e2-4ebe-9527-7ca5e9c9032a)
 
 ## License
 
