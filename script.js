@@ -17,6 +17,10 @@ function generatePassword() {
     alert("Try again")
     return;
   }
+  if(passwordLength < 8 || passwordLength > 128) {
+    alert("Your password does not meet the requirements! Try again.")
+    return;
+  }
   var uppercase = confirm("Would you like your password to contain uppercase characters? \nClick OK for Yes! \nCancel for No.")
   console.log(uppercase);
   var lowercase = confirm("Would you like your password to contain lowercase characters? \nClick OK for Yes! \nCancel for No.")
